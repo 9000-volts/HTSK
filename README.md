@@ -3,7 +3,7 @@
 HTSK is a web task manager written in PHP. In other words, it's a webpage that you configure to allow you to start, stop, and view the
 output of preconfigured commands.
 
-![Screenshot](https://www.dropbox.com/s/4h8cntow0cf77yf/HTSK%20Screenshot.png?raw=1])
+![Screenshot](https://www.dropbox.com/s/4h8cntow0cf77yf/HTSK%20Screenshot.png?raw=1)
 
 ## Installation
 
