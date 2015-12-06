@@ -152,7 +152,7 @@ if($_SESSION['loggedin'] == 1) {
     ?>
   </head>
   <body>
-    <div class="meta">HTSK 1.0 by <a href="http://htmlguy.cu.cc">htmlguy</a></div>
+    <div class="meta"><a href="https://github.com/htmlguy/htsk">HTSK</a> 1.0 by <a href="http://htmlguy.cu.cc">htmlguy</a></div>
     <?php
       // If the user is logged in, print a task list UI.
       if($_SESSION['loggedin'] == 1) {
