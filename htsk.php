@@ -169,12 +169,14 @@ if($_SESSION['loggedin'] == 1) {
               <a href="?start=<?php echo $index; ?>">START</a>
             <?php } ?>
           </div>
-          <form method="post">
-            <input type="hidden" name="password" value="_***_">
-            <input type="submit" value="Log Out">
-          </form>
         <?php
         }
+      ?>
+      <form method="post">
+        <input type="hidden" name="password" value="_*_*_">
+        <input type="submit" value="Log Out">
+      </form>
+      <?php
       // If the user is logged out, print a login screen.
       } else {
       ?>
